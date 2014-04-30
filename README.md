@@ -1,4 +1,4 @@
 PIG
 ===
 
-Pig Scripts created by "Manish Verma"
+Pig script to process firewall logs, load the data into HDFS, and HBase. 
